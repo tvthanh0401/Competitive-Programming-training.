@@ -4,7 +4,7 @@
 ---
 
 <h3 id="giải-bài-atcoder-beginner-contest-053d">Giải bài Atcoder Beginner Contest 053D</h3>
-<p>Các bạn có thể xem đề bài ở <a href="%5Bhttps://atcoder.jp/contests/arc068/tasks/arc068_b%5D(https://atcoder.jp/contests/arc068/tasks/arc068_b)">đây</a><br>
+<p>Các bạn có thể xem đề bài ở <a href="https://atcoder.jp/contests/arc068/tasks/arc068_b">đây</a><br>
 Mình tóm tắt qua một chút đề bài: Ta sẽ có <em><strong>N</strong></em> lá bài,  mỗi lá bài có ghi 1 số tự nhiên <em>i</em>. Ta sẽ thực hiện thao tác sau để các lá bài còn lại sẽ khác nhau từng đôi một:<br>
 Thao tác: Lấy 3 lá tùy chọn, bỏ đi 2 lá có số ghi trên các lá bài là nhỏ nhất và lớn nhất.<br>
 Yêu cầu là chúng ta sẽ đưa số lá bài khác nhau lớn nhất có thể từ điều kiện đề bài đã cho.<br>
