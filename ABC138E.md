@@ -8,3 +8,4 @@ Khi đó ta khởi tạo index = 0, bắt đầu duyệt xâu t, ứng với ký
 ví dụ curr = upperbound(pos[kt], index), khi đó vị trí của kt sẽ là pos[kt][curr] nếu curr <= len(pos[kt]) - 1, ngược lại thì là pos[kt][0] <br />
 index sau đó sẽ được thay đổi bằng (pos[kt][curr] + 1) % len(s) <br />
 Tương tự như vậy ta sẽ tìm được tất cả các vị trí phù hợp cho các kí tự còn lại trong t <br />
+
