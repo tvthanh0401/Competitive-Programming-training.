@@ -1,5 +1,5 @@
 ﻿### Giải bài AtCoder Beginner Contest 074 C
-Các bạn có thể xem đề bài ở [đây]([https://atcoder.jp/contests/abc074/tasks/arc083_a](https://atcoder.jp/contests/abc074/tasks/arc083_a))
+Các bạn có thể xem đề bài ở [đây](https://atcoder.jp/contests/abc074/tasks/arc083_a). <br />
 Tóm tắt đề bài: Người ta muốn tìm cách pha đường vào nước sao cho nồng độ dung dịch đường là tối đa(ở đây đường phải hòa tan toàn bộ trong dung dịch nước). Để làm được việc đó thì ta có 4 thao tác:<br/>
 +Cho 100A g nước vào trong dung dịch.<br />
 +Cho 100B g nước vào trong dung dịch.<br />
