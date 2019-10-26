@@ -12,7 +12,7 @@
 Ý nghĩa của một số từ viết tắt:<br>
 <strong>ABCXXX</strong>: AtCoder Beginner Contest XXX.<br>
 <strong>ARCXXX</strong>: AtCoder Regular Contest XXX.<br>
-<strong>AGCXXX</strong>: AtCoder Grande Contest XXX.</p>
+<strong>AGCXXX</strong>: AtCoder Grand Contest XXX.</p>
 </div>
 </body>
 
